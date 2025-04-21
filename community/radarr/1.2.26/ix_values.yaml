@@ -5,8 +5,8 @@ image:
 
 resources:
   limits:
-    cpu: 4000m
-    memory: 8Gi
+    cpu: 100m
+    memory: 200Mi
 
 radarrConfig:
   instanceName: Radarr
