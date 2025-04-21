@@ -688,7 +688,7 @@
                 "https://sonarr.tv/img/features/blocklist.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/sonarr",
+                "https://github.com/home-operations/containers/tree/main/apps/sonarr",
                 "https://github.com/truenas/charts/tree/master/community/sonarr",
                 "https://github.com/Sonarr/Sonarr"
             ],
@@ -962,7 +962,7 @@
             ],
             "screenshots": [],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/prowlarr",
+                "https://github.com/home-operations/containers/tree/main/apps/prowlarr",
                 "https://github.com/truenas/charts/tree/master/community/prowlarr",
                 "https://github.com/Prowlarr/Prowlarr"
             ],
@@ -1714,7 +1714,7 @@
                 "https://media.sys.truenas.net/apps/lidarr/screenshots/screenshot3.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/lidarr",
+                "https://github.com/home-operations/containers/tree/main/apps/lidarr",
                 "https://github.com/truenas/charts/tree/master/community/lidarr",
                 "https://github.com/Lidarr/Lidarr"
             ],
@@ -1829,7 +1829,7 @@
                 "https://media.sys.truenas.net/apps/bazarr/screenshots/screenshot2.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/bazarr",
+                "https://github.com/home-operations/containers/tree/main/apps/bazarr",
                 "https://github.com/truenas/charts/tree/master/library/ix-dev/community/bazarr",
                 "https://github.com/morpheus65535/bazarr"
             ],
@@ -1985,7 +1985,7 @@
                 "https://media.sys.truenas.net/apps/qbittorrent/screenshots/screenshot1.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/qbittorrent",
+                "https://github.com/home-operations/containers/tree/main/apps/qbittorrent",
                 "https://github.com/truenas/charts/tree/master/community/qbittorrent",
                 "https://www.qbittorrent.org/"
             ],
@@ -2899,7 +2899,7 @@
                 "https://media.sys.truenas.net/apps/readarr/screenshots/screenshot3.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/readarr",
+                "https://github.com/home-operations/containers/tree/main/apps/readarr",
                 "https://github.com/truenas/charts/tree/master/library/ix-dev/community/readarr",
                 "https://github.com/Readarr/Readarr"
             ],
@@ -2975,7 +2975,7 @@
                 "https://media.sys.truenas.net/apps/radarr/screenshots/screenshot4.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/radarr",
+                "https://github.com/home-operations/containers/tree/main/apps/radarr",
                 "https://github.com/truenas/charts/tree/master/community/radarr",
                 "https://github.com/Radarr/Radarr"
             ],
@@ -3297,7 +3297,7 @@
             "icon_url": "https://media.sys.truenas.net/apps/unifi-protect-backup/icons/icon.svg"
         },
         "transmission": {
-            "app_readme": "<h1>Transmission</h1>\n<p><a href=\"https://transmissionbt.com/\">Transmission</a> is designed for easy, powerful use.</p>\n<blockquote>\n<p>When application is installed, a container will be launched with <strong>root</strong> privileges.\nThis is required in order to apply the correct permissions to the Transmission directories.\nAfterward, the <code>Transmission</code> container will run as a <strong>non</strong>-root user (Default: <code>568</code>).</p>\n</blockquote>\n<p>For additional configuration via environment variables, see <a href=\"https://github.com/onedr0p/containers/tree/main/apps/transmission\">Container's source env var list</a>.</p>",
+            "app_readme": "<h1>Transmission</h1>\n<p><a href=\"https://transmissionbt.com/\">Transmission</a> is designed for easy, powerful use.</p>\n<blockquote>\n<p>When application is installed, a container will be launched with <strong>root</strong> privileges.\nThis is required in order to apply the correct permissions to the Transmission directories.\nAfterward, the <code>Transmission</code> container will run as a <strong>non</strong>-root user (Default: <code>568</code>).</p>\n</blockquote>\n<p>For additional configuration via environment variables, see <a href=\"https://github.com/home-operations/containers/tree/main/apps/transmission\">Container's source env var list</a>.</p>",
             "categories": [
                 "media"
             ],
@@ -3326,7 +3326,7 @@
             ],
             "screenshots": [],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/transmission",
+                "https://github.com/home-operations/containers/tree/main/apps/transmission",
                 "https://github.com/truenas/charts/tree/master/community/transmission",
                 "https://transmissionbt.com/"
             ],
@@ -3406,7 +3406,7 @@
                 "https://media.sys.truenas.net/apps/sabnzbd/screenshots/screenshot3.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/sabnzbd",
+                "https://github.com/home-operations/containers/tree/main/apps/sabnzbd",
                 "https://github.com/truenas/charts/tree/master/library/ix-dev/community/sabnzbd",
                 "https://github.com/Sabnzbd/Sabnzbd"
             ],
@@ -3518,7 +3518,7 @@
                 "https://media.sys.truenas.net/apps/sonarr/screenshots/screenshot3.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/sonarr",
+                "https://github.com/home-operations/containers/tree/main/apps/sonarr",
                 "https://github.com/truenas/charts/tree/master/community/sonarr",
                 "https://github.com/Sonarr/Sonarr"
             ],
@@ -4150,7 +4150,7 @@
                 "https://media.sys.truenas.net/apps/tautulli/screenshots/screenshot4.png"
             ],
             "sources": [
-                "https://github.com/onedr0p/containers/tree/main/apps/tautulli",
+                "https://github.com/home-operations/containers/tree/main/apps/tautulli",
                 "https://github.com/truenas/charts/tree/master/library/ix-dev/community/tautulli",
                 "https://github.com/Tautulli/Tautulli"
             ],
