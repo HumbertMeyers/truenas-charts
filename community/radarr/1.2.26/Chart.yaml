@@ -5,7 +5,7 @@ annotations:
 type: application
 version: 1.2.26
 apiVersion: v2
-appVersion: 5.19.3.9730
+appVersion: 5.21.1.9799
 kubeVersion: '>=1.16.0-0'
 maintainers:
   - name: truenas

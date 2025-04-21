@@ -4,14 +4,14 @@
         "supported": false,
         "healthy_error": null,
         "location": "/__w/charts/charts/charts/plex/2.0.19",
-        "last_update": "2025-03-06 08:26:26",
+        "last_update": "2025-04-21 12:03:40",
         "required_features": [
             "definitions/gpuConfiguration",
             "definitions/timezone",
             "normalize/ixVolume",
             "normalize/acl"
         ],
-        "human_version": "1.41.4.9463_2.0.19",
+        "human_version": "1.41.6.9685_2.0.19",
         "version": "2.0.19",
         "chart_metadata": {
             "name": "plex",
@@ -22,7 +22,7 @@
             "type": "application",
             "version": "2.0.19",
             "apiVersion": "v2",
-            "appVersion": "1.41.4.9463",
+            "appVersion": "1.41.6.9685",
             "kubeVersion": ">=1.16.0-0",
             "maintainers": [
                 {
