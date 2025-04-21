@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/onedr0p/prowlarr-develop
+  repository: ghcr.io/home-operations/prowlarr-develop
   pullPolicy: IfNotPresent
   tag: 1.34.1.5021
 

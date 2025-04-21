@@ -18,7 +18,7 @@ dependencies:
 home: https://github.com/Sonarr/Sonarr
 icon: https://raw.githubusercontent.com/Sonarr/Sonarr/develop/Logo/256.png
 sources:
-  - https://github.com/onedr0p/containers/tree/main/apps/sonarr
+  - https://github.com/home-operations/containers/tree/main/apps/sonarr
   - https://github.com/truenas/charts/tree/master/community/sonarr
   - https://github.com/Sonarr/Sonarr
 keywords:

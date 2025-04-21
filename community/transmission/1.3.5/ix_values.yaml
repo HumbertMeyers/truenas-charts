@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/onedr0p/transmission
+  repository: ghcr.io/home-operations/transmission
   pullPolicy: IfNotPresent
   tag: 4.0.5
 
@@ -41,4 +41,4 @@ transmissionStorage:
 notes:
   custom: |
     Settings can be configured via Environment Variables.
-    See https://github.com/onedr0p/containers/tree/main/apps/transmission for available options.
+    See https://github.com/home-operations/containers/tree/main/apps/transmission for available options.
